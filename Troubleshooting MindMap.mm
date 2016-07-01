@@ -1,10 +1,38 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1467310409843" ID="ID_460762627" MODIFIED="1467310450531" TEXT="Concerning trip">
-<node CREATED="1467310458453" ID="ID_720931705" MODIFIED="1467375310456" POSITION="right" STYLE="fork" TEXT="Xomon">
+<node CREATED="1467310409843" ID="ID_460762627" MODIFIED="1467395702878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Concerning trip
+    </p>
+    <p style="text-align: center">
+      post analysis
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1467310458453" ID="ID_720931705" MODIFIED="1467398173302" POSITION="right" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Xomon Trip
+    </p>
+    <p style="text-align: center">
+      End time
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="edit"/>
-<node CREATED="1467310490616" ID="ID_1268094186" MODIFIED="1467375310454" STYLE="fork" TEXT="Office Cutout">
+<node CREATED="1467310490616" ID="ID_1268094186" MODIFIED="1467397962225" STYLE="fork" TEXT="2010 Office Cutout">
 <node CREATED="1467310507484" ID="ID_13812414" MODIFIED="1467375310454" STYLE="fork" TEXT="Post Consist">
 <node CREATED="1467310517357" ID="ID_1810114279" MODIFIED="1467375310454" STYLE="fork" TEXT="BOS Logs">
 <icon BUILTIN="edit"/>
@@ -14,8 +42,37 @@
 <node CREATED="1467310762933" ID="ID_1280953986" MODIFIED="1467375759662" STYLE="fork" TEXT="No 2042 after 1041">
 <node CREATED="1467310770847" ID="ID_1626510232" MODIFIED="1467375310454" STYLE="fork" TEXT="Onboard Logs">
 <icon BUILTIN="edit"/>
-<node CREATED="1467310782885" ID="ID_731013521" MODIFIED="1467380029511" STYLE="fork" TEXT="Slice Fights in close proximity to 2042">
-<node CREATED="1467310794004" ID="ID_1093958422" MODIFIED="1467375310454" STYLE="fork" TEXT="Suspect Tri-plex Slot10 disconnect issue">
+<node CREATED="1467310782885" ID="ID_731013521" MODIFIED="1467396496202" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Slice Fights in close
+    </p>
+    <p style="text-align: center">
+      proximity to 2042
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1467310794004" ID="ID_1093958422" MODIFIED="1467398965252" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Suspect Tri-plex Slot10
+    </p>
+    <p style="text-align: center">
+      disconnect issue.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
@@ -23,24 +80,45 @@
 </node>
 </node>
 </node>
-<node CREATED="1467374320943" ID="ID_135802213" MODIFIED="1467375310454" STYLE="fork" TEXT="Cad Commanded Cutout"/>
+<node CREATED="1467374320943" ID="ID_135802213" MODIFIED="1467375310454" STYLE="fork" TEXT="Cad Commanded Cutout">
+<node CREATED="1467396128284" ID="ID_374124626" MODIFIED="1467399404894">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Look for signs of train
+    </p>
+    <p style="text-align: center">
+      routing issues at the time
+    </p>
+    <p style="text-align: center">
+      Goto Crew Cutout Mid-Trip
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1467311003424" ID="ID_555633537" MODIFIED="1467375310454" STYLE="fork" TEXT="At Consist">
 <node CREATED="1467370176052" ID="ID_1442072650" MODIFIED="1467375310454" STYLE="fork" TEXT="Bos Logs">
 <icon BUILTIN="edit"/>
 <node CREATED="1467370202674" ID="ID_1435891099" MODIFIED="1467375310454" STYLE="fork" TEXT="&apos;Consist Load Fail&apos;">
-<node CREATED="1467311009800" ID="ID_284237519" MODIFIED="1467375310454" STYLE="fork" TEXT="Dispatcher Error">
+<node CREATED="1467311009800" ID="ID_284237519" MODIFIED="1467395469230" STYLE="fork" TEXT="Dispatcher Error">
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1467369020153" ID="ID_608984583" MODIFIED="1467375310454" STYLE="fork" TEXT="Crew Cutout">
+<node CREATED="1467369020153" ID="ID_608984583" MODIFIED="1467397958697" STYLE="fork" TEXT="2010 Crew Cutout">
 <node CREATED="1467372854467" ID="ID_1705786138" MODIFIED="1467375310454" STYLE="fork" TEXT="Just after Going active">
 <node CREATED="1467372907766" ID="ID_1493367568" MODIFIED="1467375310454" STYLE="fork" TEXT="Reactive Enforcement for Signal Speed 20">
-<node CREATED="1467373040572" ID="ID_1367523431" MODIFIED="1467375310455" STYLE="fork" TEXT="Mid Territory init restricted Speed">
+<node CREATED="1467373040572" ID="ID_1367523431" MODIFIED="1467395423548" STYLE="fork" TEXT="Mid Territory init restricted Speed">
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
@@ -58,7 +136,7 @@
 <node CREATED="1467369349244" ID="ID_1042197642" MODIFIED="1467375310455" STYLE="fork" TEXT="Wayside FEP">
 <icon BUILTIN="edit"/>
 <node CREATED="1467369372699" ID="ID_1397282976" MODIFIED="1467375310455" STYLE="fork" TEXT="Interruption in WSMs">
-<node CREATED="1467369413479" ID="ID_1241656873" MODIFIED="1467375310455" STYLE="fork" TEXT="Wayside Network Outage">
+<node CREATED="1467369413479" ID="ID_1241656873" MODIFIED="1467395464919" STYLE="fork" TEXT="Wayside Network Outage">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1467369545227" ID="ID_358598846" MODIFIED="1467375310455" STYLE="fork" TEXT="Inform Chad">
 <icon BUILTIN="messagebox_warning"/>
@@ -69,7 +147,38 @@
 <node CREATED="1467369614348" ID="ID_1262036932" MODIFIED="1467375310455" STYLE="fork" TEXT="Onboard Logs">
 <icon BUILTIN="edit"/>
 <node CREATED="1467369644268" ID="ID_520741449" MODIFIED="1467375310455" STYLE="fork" TEXT="WSRS Subscriptions take too long">
-<node CREATED="1467373924367" ID="ID_630403302" MODIFIED="1467375310455" STYLE="fork" TEXT="Loco Comms Likely Wimax (Comms)">
+<node CREATED="1467373924367" ID="ID_630403302" MODIFIED="1467395463169" STYLE="fork" TEXT="Loco Comms Likely Wimax (Comms)">
+<icon BUILTIN="stop-sign"/>
+</node>
+</node>
+<node CREATED="1467374674816" ID="ID_92349817" MODIFIED="1467396299533" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Tri-Plex 'Slice Fight' in close
+    </p>
+    <p style="text-align: center">
+      proximity to signal going unknown&#160;
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1467374709246" ID="ID_1165620524" MODIFIED="1467396345499" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Suspect Tri-Plex Slot10
+    </p>
+    <p style="text-align: center">
+      Disconnect Issue
+    </p>
+  </body>
+</html></richcontent>
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
@@ -79,11 +188,16 @@
 <node CREATED="1467369873278" ID="ID_1131296840" MODIFIED="1467375310455" STYLE="fork" TEXT="Onboard Logs">
 <icon BUILTIN="edit"/>
 <node CREATED="1467370039554" ID="ID_1305147040" MODIFIED="1467375310455" STYLE="fork" TEXT="Sudden downgrade in status">
-<node CREATED="1467370055960" ID="ID_1871989900" MODIFIED="1467375310455" STYLE="fork" TEXT="Unexpected downgrade of signal">
+<node CREATED="1467370055960" ID="ID_1871989900" MODIFIED="1467395467006" STYLE="fork" TEXT="Unexpected downgrade of signal">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1467370082324" ID="ID_377206601" MODIFIED="1467375310455" STYLE="fork" TEXT="Inform Pete Hulgrin">
 <icon BUILTIN="messagebox_warning"/>
 </node>
+</node>
+</node>
+<node CREATED="1467369644268" ID="ID_263981807" MODIFIED="1467375310455" STYLE="fork" TEXT="WSRS Subscriptions take too long">
+<node CREATED="1467373924367" ID="ID_1003935179" MODIFIED="1467395463169" STYLE="fork" TEXT="Loco Comms Likely Wimax (Comms)">
+<icon BUILTIN="stop-sign"/>
 </node>
 </node>
 </node>
@@ -114,34 +228,141 @@
 </node>
 <node CREATED="1467369614348" ID="ID_914246522" MODIFIED="1467375310455" STYLE="fork" TEXT="Onboard Logs">
 <icon BUILTIN="edit"/>
-<node CREATED="1467369644268" ID="ID_780649046" MODIFIED="1467375310455" STYLE="fork" TEXT="WSRS Subscriptions take too long">
+<node CREATED="1467369644268" ID="ID_780649046" MODIFIED="1467396397546" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      WSRS subscriptions
+    </p>
+    <p style="text-align: center">
+      take too long
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1467373924367" ID="ID_1249836762" MODIFIED="1467375310455" STYLE="fork" TEXT="Loco Comms Likely Wimax (Comms)">
 <icon BUILTIN="stop-sign"/>
 </node>
-<node CREATED="1467374674816" ID="ID_611729351" MODIFIED="1467375310455" STYLE="fork" TEXT="Tri-Plex &apos;Slice Fight&apos; in close proximity to signal going unknown ">
-<node CREATED="1467374709246" ID="ID_1034345467" MODIFIED="1467375310455" STYLE="fork" TEXT="Suspect Tri-Plex Slot10 Disconnect Issue">
+<node CREATED="1467374674816" ID="ID_611729351" MODIFIED="1467396309145" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Tri-Plex 'Slice Fight' in close
+    </p>
+    <p style="text-align: center">
+      proximity to signal going unknown&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1467374709246" ID="ID_1034345467" MODIFIED="1467396357913" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Suspect Tri-Plex Slot10
+    </p>
+    <p style="text-align: center">
+      Disconnect Issue
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1467374674816" ID="ID_1593102355" MODIFIED="1467375310455" STYLE="fork" TEXT="Tri-Plex &apos;Slice Fight&apos; in close proximity to signal going unknown ">
-<node CREATED="1467374709246" ID="ID_658417082" MODIFIED="1467375310455" STYLE="fork" TEXT="Suspect Tri-Plex Slot10 Disconnect Issue">
+<node CREATED="1467374674816" ID="ID_1593102355" MODIFIED="1467396299533" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Tri-Plex 'Slice Fight' in close
+    </p>
+    <p style="text-align: center">
+      proximity to signal going unknown&#160;
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1467374709246" ID="ID_658417082" MODIFIED="1467396345499" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Suspect Tri-Plex Slot10
+    </p>
+    <p style="text-align: center">
+      Disconnect Issue
+    </p>
+  </body>
+</html></richcontent>
 <icon BUILTIN="stop-sign"/>
+</node>
 </node>
 </node>
 </node>
 </node>
 </node>
 <node CREATED="1467370471683" ID="ID_759000570" MODIFIED="1467375310455" STYLE="fork" TEXT="Steady indication">
-<node CREATED="1467370486195" ID="ID_739819171" MODIFIED="1467386690368" STYLE="fork" TEXT="Inefficient Dispatching (Routing)">
+<node CREATED="1467370486195" ID="ID_739819171" MODIFIED="1467397327935" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Insufficient Dispatching
+    </p>
+    <p style="text-align: center">
+      (Routing)
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
 <node CREATED="1467370039554" ID="ID_539295894" MODIFIED="1467375310455" STYLE="fork" TEXT="Sudden downgrade">
-<node CREATED="1467370055960" ID="ID_496510974" MODIFIED="1467375310455" STYLE="fork" TEXT="Unexpected downgrade of signal">
+<node CREATED="1467370055960" ID="ID_496510974" MODIFIED="1467397307180" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Unexpected downgrade
+    </p>
+    <p style="text-align: center">
+      of signal
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="stop-sign"/>
-<node CREATED="1467370082324" ID="ID_75221976" MODIFIED="1467375310455" STYLE="fork" TEXT="Inform Pete Hulgrin">
+<node CREATED="1467370082324" ID="ID_75221976" MODIFIED="1467395899683" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inform Pete Hulgrin
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
@@ -155,7 +376,21 @@
 <node CREATED="1467373261299" ID="ID_958409219" MODIFIED="1467375310455" STYLE="fork" TEXT="Onboard Logs">
 <node CREATED="1467373298902" ID="ID_120276651" MODIFIED="1467375310455" STYLE="fork" TEXT="Warning begins 3 miles out">
 <node CREATED="1467373315293" ID="ID_730314775" MODIFIED="1467375310455" STYLE="fork" TEXT="Operator indicates &apos;No&apos; not protected">
-<node CREATED="1467373540208" ID="ID_936231071" MODIFIED="1467375310455" STYLE="fork" TEXT="Operator failed to drive to within 500&apos; of xing then cuts out">
+<node CREATED="1467373540208" ID="ID_936231071" MODIFIED="1467396463024" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Operator failed to drive to
+    </p>
+    <p style="text-align: center">
+      within 500' of xing then cuts out
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1467373607978" ID="ID_851854491" MODIFIED="1467375310455" STYLE="fork" TEXT="Incorrect Bulletin Execution">
 <icon BUILTIN="stop-sign"/>
 </node>
@@ -176,6 +411,7 @@
 </node>
 </node>
 </node>
+<node CREATED="1467396525603" ID="ID_1771165034" MODIFIED="1467396577992" TEXT="Early Arrival"/>
 </node>
 <node CREATED="1467375497768" ID="ID_160710600" MODIFIED="1467375528786" TEXT="Signals + Switch Alignments">
 <node CREATED="1467375539796" ID="ID_1611496889" MODIFIED="1467375607974" TEXT="Onboard Logs">
@@ -200,7 +436,7 @@
 <node CREATED="1467394192117" ID="ID_180647727" MODIFIED="1467394202676" TEXT="Location Lost">
 <node CREATED="1467394202677" ID="ID_363756078" MODIFIED="1467394212993" TEXT="Onboard Logs">
 <node CREATED="1467394212994" ID="ID_1190631105" MODIFIED="1467394278091" TEXT="Wheel Tach &apos;Stuck at 0&apos;">
-<node CREATED="1467394592461" ID="ID_1571810076" MODIFIED="1467394608756" TEXT="Tach need replaced or cleaned">
+<node CREATED="1467394592461" ID="ID_1571810076" MODIFIED="1467395744556" TEXT="Tach should be replaced or cleaned">
 <icon BUILTIN="stop-sign"/>
 <node CREATED="1467394635651" ID="ID_841604341" MODIFIED="1467394646842" TEXT="Inform DTO">
 <icon BUILTIN="messagebox_warning"/>
@@ -217,13 +453,33 @@
 </node>
 <node CREATED="1467373993056" ID="ID_172291101" MODIFIED="1467375310456" STYLE="fork" TEXT="End of trip">
 <node CREATED="1467373998777" ID="ID_1205722859" MODIFIED="1467375310456" STYLE="fork" TEXT="Double check last mile post recorded">
-<node CREATED="1467374011239" ID="ID_1566273441" MODIFIED="1467375310456" STYLE="fork" TEXT="If it doesn&apos;t match initial run report end milepost replace it and reassess if trip is concerning">
+<node CREATED="1467374011239" ID="ID_1566273441" MODIFIED="1467398217291" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      If it doesn't match initial run report
+    </p>
+    <p style="text-align: center">
+      end milepost replace it and
+    </p>
+    <p style="text-align: center">
+      reassess if trip is concerning
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="stop-sign"/>
+</node>
+<node CREATED="1467399547463" ID="ID_1466623558" MODIFIED="1467399584648" TEXT="If within DUS (&lt;Mp 0.5) not concerning">
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1467369028727" ID="ID_1445874504" MODIFIED="1467375310456" STYLE="fork" TEXT="Locomotive Cutout">
+<node CREATED="1467369028727" ID="ID_1445874504" MODIFIED="1467397954586" STYLE="fork" TEXT="2010 Locomotive Cutout">
 <node CREATED="1467373772579" ID="ID_1116774651" MODIFIED="1467394136746" STYLE="fork" TEXT="Onboard Logs Show">
 <icon BUILTIN="edit"/>
 <node CREATED="1467373795788" ID="ID_333931872" MODIFIED="1467394153311" STYLE="fork" TEXT="Comparator issues in close proximity">
@@ -231,6 +487,25 @@
 <icon BUILTIN="stop-sign"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1467398068068" ID="ID_334111673" MODIFIED="1467398104465">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      No 2010 indications of
+    </p>
+    <p style="text-align: center">
+      onboard failures
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1467398109485" ID="ID_901950589" MODIFIED="1467398124865" TEXT="Onboard In-Route Failure">
+<icon BUILTIN="stop-sign"/>
 </node>
 </node>
 </node>
